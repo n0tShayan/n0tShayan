@@ -4,5 +4,5 @@
 - 💬 Ask me about Noting.
 - 📫 How to reach me: sahibzadashayaan@gmail.com
 - 😄 Pronouns: nick/her
-- ⚡ Fun fact: Im dumb.
+- ⚡ Fun fact: Im dumbass.
 
