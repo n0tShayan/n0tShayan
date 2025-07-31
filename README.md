@@ -2,6 +2,13 @@
 
 
 <h3  align="center">Computer Science Student @ GIKI</h3>
+<p align="center">
+  <a href="https://n0tShayan.github.io/shayan-portfolio" target="_blank">
+    <img src="https://img.shields.io/badge/Visit%20My%20Portfolio-4CAF50?style=for-the-badge&logo=github&logoColor=white" alt="Visit My Portfolio"/>
+  </a>
+</p>
+
+
 
   
   
@@ -25,38 +32,33 @@
 
   
 
-## Languages and Tools 🛠
+### Languages,Tools & Frameworks:
+
+[![My Skills](https://skillicons.dev/icons?i=python,cpp,tensorflow,django,flask,fastapi,js,html,css,cs,arduino,bootstrap,windows,vite,vscode,visualstudio,vim,vercel,unity,ubuntu,ts,threejs,tailwind,supabase,sqlite,react,pytorch,powershell,postgres,postman,php,ps,opencv,obsidian,nodejs,notion,npm,neovim,nextjs,mongodb,mysql,linux,git,github,pycharm,clion,bash,express,figma,heroku,jquery,latex,debian)](https://skillicons.dev)
+
+
+
+<br>
+<br>
 
 <img  src="https://raw.githubusercontent.com/YahyaDar/YahyaDar/main/img.png"  min-width="400px"  max-width="400px"  width="400px"  align="right"  alt="Computador iuriCode">
 
   
 
-#### Languages & Frameworks:
-
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=python"/>](https://www.python.org/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=cpp"/>](https://cplusplus.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=html"/>](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=tensorflow"/>](https://www.tensorflow.org/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=django"/>](https://www.djangoproject.com/)
-
-<br>
-<br>
-
-#### Tools:
-  
-
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=linux"/>](https://www.linux.org/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=github"/>](https://github.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=git"/>](https://git-scm.com/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=pycharm"/>](https://www.jetbrains.com/pycharm/)
-[<img height="48px" width="48px" alt="Icone VS-Code" src="https://skillicons.dev/icons?i=clion"/>](https://www.jetbrains.com/clion/)
-
-  
-
 <br>
 <br>
 <br>
-  
+ <br>
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+<br> 
+
 
 ## Academic Background 👨‍🎓
 
@@ -82,4 +84,5 @@
 <a  href="https://www.linkedin.com/in/AsadShayan/"  target="_blank"><img  loading="lazy"  src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a>
 
 <a href="https://medium.com/@sahibzadashayaan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@shayan" height="30" width="40" /></a>
+
 </div>
