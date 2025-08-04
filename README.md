@@ -38,12 +38,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=python,cpp,tensorflow,django,flask,fastapi,js,html,css,cs,arduino,bootstrap,windows,vite,vscode,visualstudio,vim,vercel,unity,ubuntu,ts,threejs,tailwind,supabase,sqlite,react,pytorch,powershell,postgres,postman,php,ps,opencv,obsidian,nodejs,notion,npm,neovim,nextjs,mongodb,mysql,linux,git,github,pycharm,clion,bash,express,figma,heroku,jquery,latex,debian)](https://skillicons.dev)
 
-
-
-<br>
-<br>
-
-<img  src="https://raw.githubusercontent.com/YahyaDar/YahyaDar/main/img.png"  min-width="400px"  max-width="400px"  width="400px"  align="right"  alt="Computador iuriCode">
+<img  src="https://raw.githubusercontent.com/YahyaDar/YahyaDar/main/img.png"  min-width="300px"  max-width="300px"  width="300px"  align="centre"  alt="Computador iuriCode">
 
   
 
