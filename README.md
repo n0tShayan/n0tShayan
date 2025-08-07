@@ -15,9 +15,10 @@
 
 <div  align="center"  style="margin-bottom:200px">
 
-<img  width=45%  align="center"  src="https://github-readme-stats.vercel.app/api?username=n0tShayan&theme=merko&show_icons=true"  />
+<img  width=45%  align="center"  src="https://github-readme-stats.vercel.app/api?username=n0tShayan&show_icons=true"  />
 
-<img  width=40%  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0tShayan&layout=compact&theme=merko"  />
+<img  width=40%  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0tShayan&layout=compact"  />
+
 
 </div>
 
