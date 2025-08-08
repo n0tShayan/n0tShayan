@@ -1,6 +1,6 @@
 <div align="center">
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=41&pause=1000&color=33FF00&center=true&vCenter=true&random=false&width=800&height=60&lines=Asad+Shayan.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=DotGothic16&size=41&pause=1000&color=33FF00&center=true&vCenter=true&random=false&width=800&height=60&lines=n0t+Shayan.)](https://git.io/typing-svg)
 </div>
 
 <h3  align="center">Computer Science Student @ GIKI</h3>
@@ -16,7 +16,6 @@
 <div  align="center"  style="margin-bottom:200px">
 
 <img  width=45%  align="center"  src="https://github-readme-stats.vercel.app/api?username=n0tShayan&show_icons=true"  />
-
 <img  width=40%  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0tShayan&layout=compact"  />
 
 
