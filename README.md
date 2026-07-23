@@ -13,9 +13,6 @@
 
 <div  align="center"  style="margin-bottom:200px">
 
-<img  width=45%  align="center"  src="https://github-readme-stats.vercel.app/api?username=n0tShayan&show_icons=true"  />
-<img  width=40%  align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=n0tShayan&layout=compact"  />
-
 
 </div>
 
@@ -25,10 +22,6 @@
 <br>
 
   
-
-### Languages,Tools & Frameworks:
-
-[![My Skills](https://skillicons.dev/icons?i=python,cpp,tensorflow,django,flask,fastapi,js,html,css,cs,arduino,bootstrap,windows,vite,vscode,visualstudio,vim,vercel,unity,ubuntu,ts,threejs,tailwind,supabase,sqlite,react,pytorch,powershell,postgres,postman,php,ps,opencv,obsidian,nodejs,notion,npm,neovim,nextjs,mongodb,mysql,linux,git,github,pycharm,clion,bash,express,figma,heroku,jquery,latex,debian)](https://skillicons.dev)
 
 
   
